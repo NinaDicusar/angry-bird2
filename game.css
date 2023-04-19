@@ -1,0 +1,23 @@
+body{
+    background-color: #123;
+}
+#map{
+    background-color: #BBB;
+    border: 5px solid #555;
+    cursor: url(images/Target-icon.png), auto;
+}
+#bird{
+    width: 48px;
+    height: 48px;
+    background-image: url(images/bird-1.png);
+    border: 1px solid transparent;
+}
+#result{
+    color:white;
+    font-size:30px ;
+    
+}
+ button{
+padding: 5px;
+margin-left:  220px; ;
+}
